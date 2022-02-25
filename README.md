@@ -39,3 +39,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 私钥路径：/root/private.key
 公钥路径：/root/cert.crt
+
+
+
+                                  BlueSkyXN综合工具箱网络测速
+                                  
+wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
